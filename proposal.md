@@ -13,10 +13,10 @@ Scikit-learn is an open-source machine learning library for Python. It provides 
 | Main/documentation website |  https://scikit-learn.org/stable/  |
 | Year project was started |  2007 |
 | Number of contributors in the past year | 470 |
-| Number of contributors in the lifetime of the project |  |
+| Number of contributors in the lifetime of the project |  2963 |
 | Number of distinct affiliations | >10 |
 | Where do development discussions take place? | GitHub |
-| Typical number of emails/comments per week? |  2963 |
+| Typical number of emails/comments per week? |  |
 | Typical number of commits per week? | On avergae of the last year 30 commits a week |
 | Typical commit size | large range in commit size on average about 5 files were changed per commit with varying amount of changes to code|
 | How does the project accept contributions? | send an email to the mailing list or preferably submit a GitHub pull request |
