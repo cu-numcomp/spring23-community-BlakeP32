@@ -1,39 +1,38 @@
 # Community Software Analysis Proposal
-Please edit this file and push to your repository.
 
-## Software: *NAME_OF_PACKAGE_HERE*
+## Software: Sckit-Learn
 
-*Write a paragraph describing what the software does and who its
-primary audience is.*
+Scikit-learn is an open-source machine learning library for Python. It provides a range of algorithms for data science specfically focused on machine leanring. It's goal is to make data anyalsis and machine learning easier in python by providing a number of machine leanring algorithms and other useful functions. It is used in industry and academia for ML applications. Example use cases: image and text classification, clustering, regression, and more. Its audience includes data scientists, researchers, and developers who want to use machine learning in their applications.
+
 
 ### Stats
 
 | Description | Your answer |
 |---------|-----------|
-| Repository URL |    |
-| Main/documentation website |    |
-| Year project was started |   |
-| Number of contributors in the past year | `git shortlog -se --since=2022-03-01` may be useful |
-| Number of contributors in the lifetime of the project |   |
-| Number of distinct affiliations | 1, 2-5, 5-10, >10 |
-| Where do development discussions take place? | e.g., GitHub/GitLab issues, mailing list, Slack, etc.  |
-| Typical number of emails/comments per week? |   |
-| Typical number of commits per week? |  |
-| Typical commit size | `git log --shortstat` may be useful |
-| How does the project accept contributions? | e.g., pull requests, patches on mailing lists   |
-| Does the project have an automated test suite? | yes/no |
-| Does the project use continuous integration? | yes/no |
-| Are any legal/licensing steps required to contribute? | no or explain below |
+| Repository URL |  https://github.com/scikit-learn/scikit-learn  |
+| Main/documentation website |  https://scikit-learn.org/stable/  |
+| Year project was started |  2007 |
+| Number of contributors in the past year | 470 |
+| Number of contributors in the lifetime of the project |  |
+| Number of distinct affiliations | >10 |
+| Where do development discussions take place? | GitHub |
+| Typical number of emails/comments per week? |  2963 |
+| Typical number of commits per week? | On avergae of the last year 30 commits a week |
+| Typical commit size | large range in commit size on average about 5 files were changed per commit with varying amount of changes to code|
+| How does the project accept contributions? | send an email to the mailing list or preferably submit a GitHub pull request |
+| Does the project have an automated test suite? | yes |
+| Does the project use continuous integration? | yes |
+| Are any legal/licensing steps required to contribute? | no |
 
 ### Install and run
 
 Check the following boxes when complete or add a note below if you
 encountered a problem.
 
-- [ ] I have installed the software
-- [ ] I have run at least one example
-- [ ] I have run the test suite
-- [ ] The test suite passes
+- [x] I have installed the software
+- [x] I have run at least one example
+- [x] I have run the test suite
+- [x] The test suite passes
 
 ### Notes/concerns/risks
 
